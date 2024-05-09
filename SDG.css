@@ -1,0 +1,39 @@
+body
+{
+    background-color: rgb(195, 227, 255);
+}
+.head{
+    padding: 20px;
+    padding-left: 0px;
+}
+.SDG2:hover{
+    background-color: rgb(20, 140, 220);
+    transition: background-color 1s;
+    
+}
+.SDG3:hover{
+    background-color: rgb(20, 140, 220);
+    transition: background-color 1s;
+}
+.SDG6:hover{
+    background-color: rgb(20, 140, 220);
+    transition: background-color 1s;
+}
+.SDG2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+.SDG3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+.SDG6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
